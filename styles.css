@@ -1,0 +1,29 @@
+body {
+   background-color: #B0C4DE;
+}
+
+img {
+   position: absolute;
+}
+
+#smiley {
+   text-align: center;
+   font-size: 3rem;
+}
+
+.subtitle {
+   font-size: 1.3rem;
+   text-align: center;
+   padding: 1px;
+}
+
+div {
+   position: absolute;
+   width: 500px; 
+   height: 500px
+}
+        
+#rightSide {
+   left: 650px; 
+   border-left: 1.5px solid black;
+}
