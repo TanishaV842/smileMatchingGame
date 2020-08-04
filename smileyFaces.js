@@ -1,10 +1,8 @@
-var numberOfFaces = 5;
-var theLeftSide =
+let numberOfFaces = 5;
+let theLeftSide =
     document.getElementById("leftSide");
-var theRightSide =
+let theRightSide =
     document.getElementById("rightSide");
-
-
 
 function generateFaces() {
     for (let i = 0; i < numberOfFaces; i++) {
