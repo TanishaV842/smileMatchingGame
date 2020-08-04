@@ -4,4 +4,4 @@
 
 <h2>Play the Game:</h2>
 
-https://tinyurl.com/yxgqhzpa
+<a href="https://codepen.io/TannyV/full/eYZOKGM" rel="nofollow">Click Extra Smiley</a>
