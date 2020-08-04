@@ -9,7 +9,7 @@ function generateFaces() {
         let top = Math.floor(Math.random() * 401);
         let left = Math.floor(Math.random() * 401);
         let the_image = document.createElement("img");
-        the_image.setAttribute("src", "images/smiley.jpeg");
+        the_image.setAttribute("src", "http://home.cse.ust.hk/~rossiter/mooc/matching_game/smile.png");
         the_image.style.top = top + "px";
         the_image.style.left = left + "px";
         theLeftSide.appendChild(the_image);
